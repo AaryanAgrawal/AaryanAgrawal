@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Consumer electronics, Automotives or Fitness**
 
-- 📫 How to reach me **aaryanragrawal@gmail.com**
-
 - ⚡ Fun fact **Currently on the 75 HARD Challenge**
 
 <h3 align="left">Connect with me:</h3>
