@@ -18,9 +18,11 @@
 - ⚡ Fun fact **Currently on the 75 HARD Challenge**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 - **@** aaryan.agrawal.25@dartmouth.edu
 - **+1** (857) 498-9778
+
+<p align="left">
 <a href="https://linkedin.com/in/aaaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaaryan" height="30" width="40" /></a>
 <a href="https://instagram.com/aa.agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa.agrawal" height="30" width="40" /></a>
 </p>
