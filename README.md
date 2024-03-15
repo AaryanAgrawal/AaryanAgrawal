@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Agrawal</h1>
-<h3 align="center">A engineer and physicist from Dartmouth College</h3>
+<h3 align="center">A passionate engineer and physicist from Dartmouth College</h3>
 
 - 🔭 I’m currently working on **PCB Design for the Dartmouth Formula Racing team**
 
