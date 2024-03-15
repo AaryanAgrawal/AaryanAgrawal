@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaryan Agrawal</h1>
 <h3 align="center">A passionate systems engineer from Dartmouth College</h3>
 
-- 🔭 I’m currently working on **Computations of PDEs**
+- 🔭 I’m currently working on **PCB Design for the Dartmouth Formula Racing team**
 
-- 🌱 I’m currently learning **PCB Design**
+- 🌱 I’m currently learning **ML on Brain Region Activation Time-Series Datasets**
 
 - 👯 I’m looking to collaborate on **Autonomous RC Driving**
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [AaryanAgrawal.com](AaryanAgrawal.com)
 
-- 💬 Ask me about **mechanics, design or fitness**
+- 💬 Ask me about **Consumer electronics, Automotives or Fitness**
 
 - 📫 How to reach me **aaryanragrawal@gmail.com**
 
-- ⚡ Fun fact **75 HARD**
+- ⚡ Fun fact **Currently on the 75 HARD Challenge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
