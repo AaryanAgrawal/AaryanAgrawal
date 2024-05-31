@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PCB Design for the Dartmouth Formula Racing team**
 
-- 🌱 I’m currently learning **ML on Brain Region Activation Time-Series Datasets**
+- 🌱 I’m currently learning **ML & Computer Vision**
 
 - 👯 I’m looking to collaborate on **Autonomous RC Driving**
 
