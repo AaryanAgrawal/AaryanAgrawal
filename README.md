@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Human Psychology, Automobiles or Fitness**
 
-- ⚡ Fun fact **Learning how to surf**
+- ⚡ Fun fact: **Learning how to surf**
 
 <br>
 <h3 align="left">Connect with me:</h3>
