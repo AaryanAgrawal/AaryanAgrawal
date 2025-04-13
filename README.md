@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Aaryan Agrawal</h1>
 <h3 align="center">A passionate engineer and physicist from Dartmouth College</h3>
 
-- 🔭 I’m currently working on **PCB Design for the Dartmouth Formula Racing team**
+- 🔭 I’m currently working on **3D Pose Estimation of Packaged Foods using RGBD**
 
 - 🌱 I’m currently learning **ML & Computer Vision**
 
-- 👯 I’m looking to collaborate on **Autonomous RC Driving**
+- 👯 I’m looking to collaborate on **Autonomous Robotics**
 
-- 🤝 I’m looking for help with **ROS**
+- 🤝 I’m looking for help with **ROS 2**
 
-- 👨‍💻 All of my projects are available at [AaryanAgrawal.com](AaryanAgrawal.com)
+- 👨‍💻 All of my projects are available at [AaryanAgrawal.com](AaryanAgrawal.me)
 
-- 💬 Ask me about **Consumer electronics, Automotives or Fitness**
+- 💬 Ask me about **Human Psychology, Automobiles or Fitness**
 
-- ⚡ Fun fact **Currently on the 75 HARD Challenge**
+- ⚡ Fun fact **Learning how to surf**
 
 <br>
 <h3 align="left">Connect with me:</h3>
