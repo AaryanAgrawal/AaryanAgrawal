@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aaryan Agrawal</h1>
 <h3 align="center">A passionate engineer and physicist from Dartmouth College</h3>
 
-- 🔭 I’m currently working on **3D Pose Estimation of Packaged Foods using RGBD**
+- 🔭 I’m currently working on **World's fastest robotic arm teleoperation**
 
 - 🌱 I’m currently learning **ML & Computer Vision**
 
 - 👯 I’m looking to collaborate on **Autonomous Robotics**
 
-- 🤝 I’m looking for help with **ROS 2**
+- 🤝 I’m looking for help with **Robot Learning Model Architectures**
 
 - 👨‍💻 All of my projects are available at [AaryanAgrawal.com](AaryanAgrawal.me)
 
@@ -18,7 +18,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 
-- **@** aaryan.agrawal.25@dartmouth.edu
+- **@** aaryanragrawal@gmail.com
 - **+1** (857) 498-9778
 
 <p align="left">
